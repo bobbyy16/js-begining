@@ -11,7 +11,7 @@ console.log(`My name is ${name} and i am ${age}`);
 const hello = `My name is ${name} and i am ${age}`;
 console.log(hello);
 
-const s = 'HelloWorld!';
+const s = 'HelloWorld';
 const v = 'technology, computer, it, code';
 console.log(s.length);
 console.log(s.toLowerCase());
